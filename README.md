@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AlexandruN94
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development (JavaScript, HTML, CSS)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m looking to start a career in the IT field as a Web/Software Developer
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- 📫 You can contact me at nagy.alexandru94@gmail.com
 
 <!---
 AlexandruN94/AlexandruN94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
